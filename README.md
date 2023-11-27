@@ -8,7 +8,7 @@ This Step Progress Bar is a simple HTML, CSS, and JavaScript project that allows
 - Features
 - How to Use
 - File Structure
-- 
+  
 ## Demo
 
 You can see a live demo of this Step Progress Bar on the CodePen or view it directly in your browser by opening the 'index.html' file
